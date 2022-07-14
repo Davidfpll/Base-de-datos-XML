@@ -1,0 +1,82 @@
+<alumnos>
+
+	<alumno id="1">
+		<nombre>Albert</nombre>
+		<apellido1>Arrebola</apellido1>
+		<apellido2>Sans</apellido2>
+		<mail>arrebolasansalbert@fpllefia.com</mail>
+	</alumno>
+	<alumno id="2">
+		<nombre>Amina</nombre>
+		<apellido1>Wadi</apellido1>
+		<apellido2>El karouiti</apellido2>
+		<mail>elkarouitiwadiamina@fpllefia.com</mail>
+	</alumno>
+	<alumno id="3">
+		<nombre>Joan</nombre>
+		<apellido1>Aguayo</apellido1>
+		<apellido2>Planell</apellido2>
+		<mail>planellaguayojoan@fpllefia.com</mail>
+	</alumno>
+	<alumno id="4">
+		<nombre>Joel</nombre>
+		<apellido1>amposta</apellido1>
+		<apellido2>moreno</apellido2>
+		<mail>morenoampostajosel@pfllefia.com</mail>
+	</alumno>
+	<alumno id="5">
+		<nombre>Martha consuelo</nombre>
+		<apellido1>apaza</apellido1>
+		<apellido2>berroa</apellido2>
+		<mail>berroaapazamarthaconsuelo@fpllefia.com</mail>
+	</alumno>
+	<alumno id="6">
+		<nombre>Marc</nombre>
+		<apellido1>luzon</apellido1>
+		<apellido2>jimenez</apellido2>
+		<mail>jimenezluzonmarc@fpllefia</mail>
+	</alumno>
+	<alumno id="7">
+		<nombre>Michael</nombre>
+		<apellido1>Naranjo</apellido1>
+		<apellido2>Zambrano</apellido2>
+		<mail>zambranonaranjomichael@fpllefia.com</mail>
+	</alumno>
+	<alumno id="8">
+		<nombre>Jorge</nombre>
+		<apellido1>Gago</apellido1>
+		<apellido2>Arroyo</apellido2>
+		<mail>Arroyogagojorge@fpllefia.com</mail>
+	</alumno>
+	<alumno id="9">
+		<nombre>Jordi</nombre>
+		<apellido1>navarro</apellido1>
+		<apellido2>torrente</apellido2>
+		<mail>torrentenavarraojordi@fpllefia.com</mail>
+	</alumno>
+	<alumno id="10">
+		<nombre>Paúl Sebastián</nombre>
+		<apellido1>merubia</apellido1>
+		<apellido2>mancilla</apellido2>
+		<mail>mancillamerubiasebastiánpaúl@fpllefia.com</mail>
+	</alumno>
+	<alumno id="11">
+		<nombre>Iván</nombre>
+		<apellido1>rodriguez</apellido1>
+		<apellido2>rodriguez</apellido2>
+		<mail>rodriguezrodriguezivan@fpllefia.com</mail>
+	</alumno>
+	<alumno id="12">
+		<nombre>Eva Xiomara</nombre>
+		<apellido1>Najarro</apellido1>
+		<apellido2>Rafel</apellido2>
+		<mail>rafaelnajarroxiomaraeva@fpllefia.com</mail>
+	</alumno>
+	<alumno id="13">
+		<nombre>David</nombre>
+		<apellido1>olmo</apellido1>
+		<apellido2>franco</apellido2>
+		<mail>francoolmodavid@fpllefia.com</mail>
+	</alumno>
+</alumnos>
+		
